@@ -1,5 +1,7 @@
 
-<img src="imagens\Bem vindo.svg" height = "40" />
+<div style="text-align: center;">
+  <img src="imagens\bem vindo.svg" width="50%" height="50%" align="center"/>
+</div>
 
 ---
 
@@ -36,7 +38,7 @@
 ---
 
 <div style="text-align: center;">
-  <img src="imagens\.svg" width="50%" height="50%" align="center"/>
+  <img src="imagens\Estatisticas.svg" width="50%" height="50%" align="center"/>
 </div>
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorviana1011&show_icons=true&include_all_commits=true&count_private=true&bg_color=2e2e2e&title_color=229461&text_color=fcfafa&icon_color=2ec782&border_color=2e2e2e)](https://github.com/anuraghazra/github-readme-stats)
