@@ -1,6 +1,5 @@
-
 <div style="text-align: center;">
-  <img src="imagens\Bem vindo.svg" width="50%" height="50%" align="center"/>
+  <img src="imagens\Bem vindo.svg" height = "40" />
 </div>
 
 ---
@@ -11,9 +10,10 @@
 <p align="center"> 📫 Como me encontrar: <a href="mailto:vitorluizcviana@gmail.com"><strong>vitorluizcviana@gmail.com</strong></a></p>
 
 ---
-<div style="text-align: center;">
+<div align="center">
   <img src="imagens\Onde.svg" width="50%" height="50%" align="center"/>
 </div>
+
 <p align="center">
 <a href="https://linkedin.com/in/vitor-viana-0a6732288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-viana-0a6732288" height="50" width="60" /></a>
 
@@ -37,7 +37,7 @@
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
   <img src="imagens\Estatisticas.svg" width="50%" height="50%" align="center"/>
 </div>
 
@@ -46,4 +46,6 @@
 
 ---
 
-<img src="imagens\Bye.svg" height = "40" />
+<div style="text-align: center;">
+  <img src="imagens\Bye.svg" height = "40" />
+</div>
