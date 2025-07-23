@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="imagens\bem vindo.svg" width="50%" height="50%" align="center"/>
+  <img src="imagens\Bem vindo.svg" width="50%" height="50%" align="center"/>
 </div>
 
 ---
